@@ -8,3 +8,4 @@ public class BookManageMain {
         view.displayMenu();
     }
 }
+
